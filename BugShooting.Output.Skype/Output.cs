@@ -1,4 +1,6 @@
-﻿namespace BS.Output.Skype
+﻿using BS.Plugin.V3.Output;
+
+namespace BugShooting.Output.Skype
 {
 
   public class Output: IOutput 

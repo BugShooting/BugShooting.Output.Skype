@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows;
 
-namespace BS.Output.Skype
+namespace BugShooting.Output.Skype
 {
   partial class Send : Window
   {
